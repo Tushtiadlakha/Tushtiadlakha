@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙋🏻‍♀️ , I am Tushti Adlakha</h1>
+<h1 align="center">HI 👋🏻 , I am Tushti Adlakha</h1>
 <h3 align="center">A passionate full stack developer from India ,Welcome to my github page!</h3>
 
 - 🔭 I’m currently working on **Node js and mongodb and styling in css , and bootstrap**
